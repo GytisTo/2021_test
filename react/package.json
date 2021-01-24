@@ -12,7 +12,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/1stdibs/front-end-quiz.git"
+        "url": "git+https://github.com/GytisTo/2021_test"
     },
     "keywords": [
         "1stdibs",
@@ -27,9 +27,13 @@
         "url": "https://github.com/1stdibs/front-end-quiz/issues"
     },
     "dependencies": {
+        "bootstrap": "^4.6.0",
         "express": "^4.16.3",
+        "node-sass": "^4.14.1",
         "react": "^16.13.1",
         "react-dom": "^16.13.1",
+        "react-icons": "^4.1.0",
+        "react-router-dom": "^5.2.0",
         "react-scripts": "^3.4.3"
     },
     "devDependencies": {

@@ -1,3 +1,18 @@
-.App-welcome {
-  text-align: center;
+body {
+  background-color: #fafafc;
+}
+.bg-white-2 {
+  background-color: #fafafc;
+}
+.font-s-18 {
+  font-size: 18px;
+}
+hr{
+  border-top: 2px solid #dae0e5;
+}
+.color-golden {
+  color: #bf9a2d;
+}
+.pointer {
+  cursor: pointer;
 }
